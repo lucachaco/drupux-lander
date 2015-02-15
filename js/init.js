@@ -39,7 +39,7 @@
 					position: 'top-center',
 					width: 120,
 					height: 50,
-					html: '<span class="toggle" data-action="toggleLayer" data-args="topPanel"></span>'
+					html: ''
 				},
 				sidePanel: {
 					states: '/global/wide/normal/narrow/narrower',
@@ -58,7 +58,7 @@
 					position: 'top-left',
 					width: 100,
 					height: 60,
-					html: '<span class="toggle" data-action="toggleLayer" data-args="sidePanel"></span>'
+					html: ''
 				}
 			}
 		}
